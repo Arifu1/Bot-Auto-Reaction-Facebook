@@ -1,0 +1,6 @@
+SC TERMUX
+Bot Auto Reaction Facebook
+git clone https://github.com/AMVengeance/FB-React.git
+chmod +x FB-React -R
+cd FB-React
+./start
